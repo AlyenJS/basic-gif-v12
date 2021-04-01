@@ -4,13 +4,13 @@
 Selam altyapıyı kurmak için yapman gerekenleri sıralıyorum bu adımları sırasıyla yaparsan botu kullana bilirsin.
 
 
-> ```package.json``` dosyasındaki modülleri kur
+>< ```package.json``` dosyasındaki modülleri kur
 
-> Dosyalardaki doldurulması gereken yerleri doldur
+>< Dosyalardaki doldurulması gereken yerleri doldur
 
-> ```config.json``` Dosyasındaki satırlara token ve prefixini gir
+>< ```config.json``` Dosyasındaki satırlara token ve prefixini gir
 
-> Powershell yada Cmd üzerinden bota ```node config.json``` şeklinde start ver.
+>< Powershell yada Cmd üzerinden bota ```node config.json``` şeklinde start ver.
 
 
 İyi kullanımlar
