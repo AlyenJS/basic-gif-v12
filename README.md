@@ -10,7 +10,7 @@ Selam altyapıyı kurmak için yapman gerekenleri sıralıyorum bu adımları s�
 
 3- ```config.json``` Dosyasındaki satırlara token ve prefixini gir
 
-4- Powershell yada Cmd üzerinden bota ```node config.json``` şeklinde start ver.
+4- Powershell yada Cmd üzerinden bota ```node index.js``` şeklinde start ver.
 
 
 İyi kullanımlar
